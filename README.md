@@ -8,6 +8,15 @@
 
 # ComfyUI ChatterBox SRT Voice (diogod) v3.4.3
 
+> **⚠️ PROJECT EVOLVED TO TTS AUDIO SUITE v4.0.0**
+> 
+> This project has evolved into [**TTS Audio Suite**](https://github.com/diodiogod/TTS-Audio-Suite), a universal multi-engine TTS platform supporting ChatterBox, F5-TTS, and future engines like RVC.
+>
+> **🔄 For New Users**: Use [TTS Audio Suite v4.0.0+](https://github.com/diodiogod/TTS-Audio-Suite) for the latest unified architecture  
+> **🛠️ For Existing Users**: This v3.x branch remains for legacy workflow compatibility
+>
+> **⚠️ Breaking Changes**: v4.0.0 requires workflow migration due to architectural changes
+
 *This is a refactored node, originally created by [ShmuelRonen](https://github.com/ShmuelRonen/ComfyUI_ChatterBox_Voice).*
 
 <div align="center">
