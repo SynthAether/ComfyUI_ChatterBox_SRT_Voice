@@ -5,8 +5,11 @@
 [![Issues][issues-shield]][issues-url]
 [![Forks][forks-shield]][forks-url]
 [![Dynamic TOML Badge][version-shield]][version-url]
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/diogogo)
 
-# ComfyUI ChatterBox SRT Voice (diogod) v3.4.3
+# ComfyUI ChatterBox SRT Voice (diogod) v3.4.4
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/diogogo)
 
 > **⚠️ PROJECT EVOLVED TO TTS AUDIO SUITE v4.0.0**
 > 
@@ -667,6 +670,18 @@ These guidelines help ensure optimal F5-TTS generation quality and prevent commo
 </details>
 
 ### 7. Restart ComfyUI
+
+<div align="right"><a href="#-table-of-contents">Back to top</a></div>
+
+## 💖 Support This Project
+
+If ChatterBox SRT Voice has been helpful for your projects, consider supporting its development:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/diogogo)
+
+Your support helps maintain and improve this project for the entire community!
+
+> **Note**: This legacy project has evolved into [TTS Audio Suite](https://github.com/diodiogod/TTS-Audio-Suite). Consider supporting the new unified platform for continued development.
 
 <div align="right"><a href="#-table-of-contents">Back to top</a></div>
 
